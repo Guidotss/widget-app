@@ -44,4 +44,10 @@ const appMenuItems = <MenuItem>[
     link: '/animated_container',
     icon: Icons.animation,
   ),
+  MenuItem(
+    title:'UI Controls',
+    subTitle: 'Controles de usuario',
+    link: '/ui_controls',
+    icon: Icons.settings,
+  ),
 ];
