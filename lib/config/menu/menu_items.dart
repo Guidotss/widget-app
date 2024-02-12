@@ -61,5 +61,11 @@ const appMenuItems = <MenuItem>[
     subTitle: 'Scroll infinito en Flutter y Pull to refresh',
     link: '/infinitescroll',
     icon: Icons.list_alt
+  ),
+  MenuItem(
+    title: 'Counter', 
+    subTitle: 'Contador de ejemplo con riverpod',
+    link: '/counter',
+    icon: Icons.add_circle_outline
   )
 ];
