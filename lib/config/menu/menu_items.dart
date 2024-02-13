@@ -67,5 +67,11 @@ const appMenuItems = <MenuItem>[
     subTitle: 'Contador de ejemplo con riverpod',
     link: '/counter',
     icon: Icons.add_circle_outline
-  )
+  ),
+  MenuItem(
+    title: 'Theme Changer', 
+    subTitle: 'Cambiador de tema con riverpod',
+    link: '/theme_changer',
+    icon: Icons.color_lens
+  ),
 ];
